@@ -9,3 +9,12 @@
 #### Many loans aren’t completely paid off on time, however, and some borrowers default on the loan. That’s the problem we’ll be trying to address as we clean some data from Lending Club for machine learning. Let’s imagine we’ve been tasked with building a model to predict whether borrowers are likely to pay or default on their loans.
 
 #### I have done Data Cleaning, univariate bivariate and build Classification model like Logistic Regression, Decision Tree,Random Forest, XG Boost, SGD Boost.  
+
+#### Logistic regression performed the best, did Hyperparameter tuning and found best parameter.
+
+### Conclusion
+#### Total bank card limit and installment play a major role in predicting if some one is going to default or not, which means that a person with higher installment is more likely to default which can be quite obvious that that applicant is not able to manage his income in order to pay back the loan.
+#### Similarly a person having higher bank card limit is less likely to default.
+#### Home owenership also plays a major role in predicting default.
+#### Total credit accounts, which as we stated in EDA, means that person is getting thismany number of accounts because he/she was in good terms with the previous creditor.
+#### It is interesting to see that some regions have major play in default, which means that company have to take region into consideration while giving out loan.
